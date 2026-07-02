@@ -1,0 +1,16 @@
+# Legacy Colab notebook (replaced by india_runs_ranking.py)
+*.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
